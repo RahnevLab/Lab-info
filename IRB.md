@@ -1,9 +1,9 @@
 # Creating a New IRB Protocol
 
 
-The first question to ask yourself when creating a new IRB protocol is: Do I actually need a new IRB protocol? That’s because in many cases we already have an existing protocol in the lab that your study fits under. The current lab protocols are categorized by methods: 1) Behavioral, 2) fMRI , 3) TMS, and 4) TMS-fMRI. Unless your new study is drastically different from the type of information in existing protocols you won’t need to create a new one, and may only need to submit a modification (see request an amendment section) or do nothing at all but be added to a protocol.
+The first question to ask yourself when creating a new IRB protocol is: Do I actually need a new IRB protocol? That’s because in many cases we already have an existing protocol in the lab that your study may fit under. The current lab protocols are categorized by methods: 1) Behavioral, 2) fMRI , 3) TMS, and 4) TMS-fMRI. Unless your new study is drastically different from the type of information in existing protocols you won’t need to create a new one, and may only need to submit a modification (see request an amendment section) or do nothing at all but be added to a protocol.
 
-If you are new to the lab you need to ask Doby to add you to the labs existing protocols so that you are officially allowed to handle data associated with them and also have access to the protocols on IRBWise if you need to submit modifications.
+If you are new to the lab you need to ask the lab manager to add you to the labs existing protocols so that you are officially allowed to handle data associated with them and also have access to the protocols on IRBWise if you need to submit modifications.
 
 
 ### Steps to create a new IRB protocol:
@@ -24,12 +24,12 @@ If you are new to the lab you need to ask Doby to add you to the labs existing p
 
 1. Go to [IRBWise](https://gtapps.gatech.edu/irb/) and log in with your usual GT username and password. If you come to a page with a lot of text just and don’t see protocols just click the IRBWise logo in the top left part of the screen.
 
-2. Now you should be on a page with 2 tabs: alerts, my protocols and my account. Click on my protocols tab and choose the correct protocol you want to request an amendment for. Then in the top right corner there is a drop down menu Tasks, select Request an Amendment.
+2. Now you should be on a page with 2 tabs: alerts, my protocols and my account. Click on "my protocols" tab and choose the correct protocol you want to request an amendment for. Then in the top right corner there is a drop down menu Tasks, select Request an Amendment.
 
 3. Fill out the form and choose the option to send to PI (Doby) before submitting.
 
-
-
+# **IRB Forms:**
+All IRB related forms can be found [here](https://researchintegrity.gatech.edu/irb/submitting-protocol/forms). Forms you will find at on this site include a consent form template, CABI health screening forms for MRI/TMS studies and any forms necessary for COVID policy (check back frequently for updates).
 
 # **Example of some of the written sections of new protocol form:**
 
