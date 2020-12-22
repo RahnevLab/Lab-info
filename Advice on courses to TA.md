@@ -6,9 +6,9 @@
 
 - Offered every Spring semester
 - Instructor: Doby
-- Relatively small class of 20-30 students
+- Medium class of ~40 students
 - TA responsibilities: Grading, proctoring and conducting office hours (1 hour/week)
-- Grading includes 6 quizzes, 2 mid-terms, a term paper and final exam
+- Grading includes 6 quizzes, 2 mid-terms, weekly reflections, a term paper and final exam
 
 **Psych 3040: Sensation and Perception**
 
@@ -16,7 +16,7 @@
 - Instructor: Doby
 - Class size: ~70 students
 - TA responsibilities: Grading, proctoring and conducting office hours (1 hour/week)
-- Grading includes 8 quizzes, 2 mid-terms, a term paper and final exam
+- Grading includes 6 quizzes, 2 mid-terms, weekly reflections, a term paper and final exam
 
 ### Courses with heavy workload for TAs:
 
