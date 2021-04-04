@@ -34,7 +34,7 @@ or\
 8.	Search the item that you spent on. Here, you can also use the dropdown menu.\
 ![Image of reimbursement8](https://github.com/RahnevLab/wiki/blob/master/images/reimbursement_008.png)
 
-9.	Modifying quantity and per unit amount. The total cost will be automatically calculated. Attach the receipt file. Include the business reason and check that you included a receipt.\ 
+9.	Modifying quantity and per unit amount. The total cost will be automatically calculated. Attach the receipt file. Include the business reason and check that you included a receipt.\
 ![Image of reimbursement9](https://github.com/RahnevLab/wiki/blob/master/images/reimbursement_009.png)
 
 10.	Different item will ask you to provide slightly different information. The example below is when you want reimbursement on hotel fee. In a similar manner, adjust the quantity and per unit amount, attach receipt, fill out the reasons and details about the item. Also, check that you included a receipt.\
