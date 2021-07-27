@@ -10,7 +10,7 @@
 1. You can access the cluster either by logging in to any workstation locally at the CABI cluster computer room or by connecting remotely.
 2. All the raw fMRI data will be stored in the cluster (under Doby&#39;s account). Use your cluster account for accessing and analyzing your data.
 3. To access the cluster remotely from a terminal:
-  1. Type &#39;ssh [username@cabi.gatech.edu](mailto:username@cabi.gatech.edu)&#39;
+  1. Type &#39;ssh [username@ssh.cabi.gatech.edu](mailto:username@ssh.cabi.gatech.edu)&#39;
   2. Enter your password
 4. Alternatively, to get the remote access software, download FastX (highly recommended) but first contact Vishwadeep Ahluwalia, ([vahluwalia7@gatech.edu](mailto:vahluwalia7@gatech.edu)) and he will explain the process since we are currently in transition from another software (Oct 2020).
 5. **Do not run any programs directly on the systems you connect to**. To run computations, please connect to other CABI cpus (cpu164 - cpu171):
@@ -23,7 +23,7 @@
 
 1. Install and run FastX3(https://www.starnet.com/fastx/trynow.php) on your personal system. You need to sign up to get a download link.
 2. Once the program launched, press '+' button on the left top corner of the window to add a connection.
-3. Select 'ssh' as your type of connection. Enter the host name: cabi.gatech.edu
+3. Select 'ssh' as your type of connection. Enter the host name: ssh.cabi.gatech.edu
 4. Use username that you set for the cluster account.
 5. You can use any name for the name section (e.g., CABI Cluster).
 6. Click 'Ok' will list your connection.
